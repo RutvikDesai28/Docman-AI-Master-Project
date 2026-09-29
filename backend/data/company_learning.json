@@ -1,15 +1,258 @@
-{
+[
+  {
     "positive_signals": {
-        "skill": {
-            "Python": 1,
-            "python": 2
-        },
-        "seniority": {},
-        "position": {}
+      "skill": {
+        "Python": 3,
+        "Django": 2,
+        "SQL": 2,
+        "REST API": 1
+      },
+      "seniority": {
+        "Senior": 2
+      },
+      "position": {
+        "Python Developer": 2
+      }
     },
     "negative_signals": {
-        "skill": {},
-        "seniority": {},
-        "position": {}
+      "skill": {
+        "Java": 1
+      },
+      "seniority": {},
+      "position": {}
     }
-}
+  },
+  {
+    "positive_signals": {
+      "skill": {
+        "Java": 3,
+        "Spring Boot": 3,
+        "Microservices": 2,
+        "SQL": 1
+      },
+      "seniority": {
+        "Senior": 2
+      },
+      "position": {
+        "Java Developer": 3,
+        "Backend Developer": 2
+      }
+    },
+    "negative_signals": {
+      "skill": {
+        "Python": 1,
+        "React": 1
+      },
+      "seniority": {},
+      "position": {}
+    }
+  },
+  {
+    "positive_signals": {
+      "skill": {
+        "React": 3,
+        "JavaScript": 3,
+        "TypeScript": 2,
+        "HTML": 1,
+        "CSS": 1
+      },
+      "seniority": {
+        "Mid-Level": 2
+      },
+      "position": {
+        "Frontend Developer": 3,
+        "React Developer": 2
+      }
+    },
+    "negative_signals": {
+      "skill": {
+        "Django": 1,
+        "Spring Boot": 1
+      },
+      "seniority": {},
+      "position": {
+        "Backend Developer": 1
+      }
+    }
+  },
+  {
+    "positive_signals": {
+      "skill": {
+        "AWS": 3,
+        "Python": 2,
+        "AWS Glue": 3,
+        "S3": 2,
+        "Lambda": 2,
+        "SQL": 2
+      },
+      "seniority": {
+        "Senior": 2
+      },
+      "position": {
+        "Data Engineer": 3,
+        "Cloud Engineer": 2
+      }
+    },
+    "negative_signals": {
+      "skill": {
+        "React": 1,
+        "Angular": 1
+      },
+      "seniority": {},
+      "position": {}
+    }
+  },
+  {
+    "positive_signals": {
+      "skill": {
+        "PySpark": 3,
+        "Databricks": 3,
+        "Azure": 2,
+        "Delta Lake": 2,
+        "SQL": 2
+      },
+      "seniority": {
+        "Lead": 2
+      },
+      "position": {
+        "Data Engineer": 3,
+        "Senior Data Engineer": 2
+      }
+    },
+    "negative_signals": {
+      "skill": {
+        "Java": 1
+      },
+      "seniority": {},
+      "position": {}
+    }
+  },
+  {
+    "positive_signals": {
+      "skill": {
+        "C++": 3,
+        "DSA": 3,
+        "Algorithms": 2,
+        "OOP": 2
+      },
+      "seniority": {
+        "Junior": 1
+      },
+      "position": {
+        "Software Engineer": 3
+      }
+    },
+    "negative_signals": {
+      "skill": {
+        "Python": 1,
+        "Java": 1
+      },
+      "seniority": {
+        "Senior": 1
+      },
+      "position": {}
+    }
+  },
+  {
+    "positive_signals": {
+      "skill": {
+        "Node.js": 3,
+        "Express": 2,
+        "MongoDB": 2,
+        "JavaScript": 2,
+        "REST API": 2
+      },
+      "seniority": {
+        "Mid-Level": 2
+      },
+      "position": {
+        "Backend Developer": 3,
+        "Node.js Developer": 2
+      }
+    },
+    "negative_signals": {
+      "skill": {
+        "Django": 1,
+        "Spring Boot": 1
+      },
+      "seniority": {},
+      "position": {}
+    }
+  },
+  {
+    "positive_signals": {
+      "skill": {
+        "Machine Learning": 3,
+        "Python": 2,
+        "TensorFlow": 2,
+        "PyTorch": 2,
+        "Pandas": 1
+      },
+      "seniority": {
+        "Senior": 2
+      },
+      "position": {
+        "Machine Learning Engineer": 3,
+        "ML Engineer": 2
+      }
+    },
+    "negative_signals": {
+      "skill": {
+        "Java": 1,
+        "React": 1
+      },
+      "seniority": {},
+      "position": {}
+    }
+  },
+  {
+    "positive_signals": {
+      "skill": {
+        "Docker": 2,
+        "Kubernetes": 3,
+        "AWS": 2,
+        "CI/CD": 2,
+        "Terraform": 2
+      },
+      "seniority": {
+        "Senior": 2
+      },
+      "position": {
+        "DevOps Engineer": 3,
+        "Cloud Engineer": 2
+      }
+    },
+    "negative_signals": {
+      "skill": {
+        "React": 1,
+        "Angular": 1
+      },
+      "seniority": {},
+      "position": {}
+    }
+  },
+  {
+    "positive_signals": {
+      "skill": {
+        "SQL": 3,
+        "PostgreSQL": 2,
+        "MySQL": 2,
+        "Database Design": 2
+      },
+      "seniority": {
+        "Mid-Level": 1
+      },
+      "position": {
+        "Database Developer": 3,
+        "SQL Developer": 2
+      }
+    },
+    "negative_signals": {
+      "skill": {
+        "MongoDB": 1
+      },
+      "seniority": {},
+      "position": {}
+    }
+  }
+]
